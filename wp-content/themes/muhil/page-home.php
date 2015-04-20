@@ -126,7 +126,7 @@ global $more;    // Declare global $more (before the loop).
 
     <!-- Portfolio start -->
 
-	<section id="portfolio" class="pfblock">
+	<!-- <section id="portfolio" class="pfblock">
 		<div class="container">
 			<div class="row">
 
@@ -136,7 +136,7 @@ global $more;    // Declare global $more (before the loop).
 						<h2 class="pfblock-title">My works</h2>
 						<div class="pfblock-line"></div>
 						<div class="pfblock-subtitle">
-							Some of the clients I have worked with to create web systems and create cloud based hosting architecure
+							Some of the clients I have worked with to architect and develop web based and cloud based systems
 						</div>
 					</div>
 
@@ -152,9 +152,10 @@ global $more;    // Declare global $more (before the loop).
                     <div class="grid wow zoomIn">
                         <figure class="effect-bubba">
                             <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-1.jpg" alt="img01"/>
+                            <!--<img src="https://www.agencyexpress.co.uk/wp-content/themes/agency-express/images/logo.png" alt="img01"/> -->
                             <figcaption>
-                                <h2>Crazy <span>Shark</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
+                                <!-- <h2>Agency Express</h2> -->
+                                <p>Administering Cloud Servers and also Built an HTML5 Mobile App</p>
                             </figcaption>			
                         </figure>
                     </div>
@@ -166,9 +167,10 @@ global $more;    // Declare global $more (before the loop).
                     <div class="grid wow zoomIn">
                         <figure class="effect-bubba">
                             <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-2.jpg" alt="img01"/>
+                            <!-- <img src="https://accentdesign.co.uk/wp-content/themes/accent/img/logo.png" alt="img01"/> -->
                             <figcaption>
-                                <h2>Funny <span>Tortoise</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
+                                <!-- <h2>Accent Design</h2> -->
+                                <p>Git Master and Systems Administrator</p>
                             </figcaption>			
                         </figure>
                     </div>
@@ -179,17 +181,18 @@ global $more;    // Declare global $more (before the loop).
             
                     <div class="grid wow zoomIn">
                         <figure class="effect-bubba">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-3.jpg" alt="img01"/>
+                             <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-3.jpg" alt="img01"/>
+                            <!-- <img src="http://cdn.property118.com/wp-content/themes/118v2/img/p118_logo_new.png" alt="img01"/> -->
                             <figcaption>
-                                <h2>The <span>Hat</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
+                                <!-- <h2>Property118</h2> -->
+                                <p>Improved website performance by architecting Cloud based architecture</p>
                             </figcaption>			
                         </figure>
                     </div>
                     
                 </div>
                 
-                <div class="col-xs-12 col-sm-4 col-md-4">
+                <!-- <div class="col-xs-12 col-sm-4 col-md-4">
             
                     <div class="grid wow zoomIn">
                         <figure class="effect-bubba">
@@ -229,14 +232,14 @@ global $more;    // Declare global $more (before the loop).
                         </figure>
                     </div>
                     
-                </div>
+                </div> -->
                 
             </div>
 
 
 		</div><!-- .contaier -->
 
-	</section>
+	</section> -->
 
 	<!-- Portfolio end -->
     
