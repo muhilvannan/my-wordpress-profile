@@ -123,125 +123,6 @@ global $more;    // Declare global $more (before the loop).
 	</section>
 
 	<!-- Services end -->
-
-    <!-- Portfolio start -->
-
-	<!-- <section id="portfolio" class="pfblock">
-		<div class="container">
-			<div class="row">
-
-				<div class="col-sm-6 col-sm-offset-3">
-
-					<div class="pfblock-header wow fadeInUp">
-						<h2 class="pfblock-title">My works</h2>
-						<div class="pfblock-line"></div>
-						<div class="pfblock-subtitle">
-							Some of the clients I have worked with to architect and develop web based and cloud based systems
-						</div>
-					</div>
-
-				</div>
-
-			</div><!-- .row -->
-            
-            
-            <div class="row">
-                
-                <div class="col-xs-12 col-sm-4 col-md-4">
-                    
-                    <div class="grid wow zoomIn">
-                        <figure class="effect-bubba">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-1.jpg" alt="img01"/>
-                            <!--<img src="https://www.agencyexpress.co.uk/wp-content/themes/agency-express/images/logo.png" alt="img01"/> -->
-                            <figcaption>
-                                <!-- <h2>Agency Express</h2> -->
-                                <p>Administering Cloud Servers and also Built an HTML5 Mobile App</p>
-                            </figcaption>			
-                        </figure>
-                    </div>
-                    
-                </div>
-
-                <div class="col-xs-12 col-sm-4 col-md-4">
-            
-                    <div class="grid wow zoomIn">
-                        <figure class="effect-bubba">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-2.jpg" alt="img01"/>
-                            <!-- <img src="https://accentdesign.co.uk/wp-content/themes/accent/img/logo.png" alt="img01"/> -->
-                            <figcaption>
-                                <!-- <h2>Accent Design</h2> -->
-                                <p>Git Master and Systems Administrator</p>
-                            </figcaption>			
-                        </figure>
-                    </div>
-                    
-                </div>
-                
-                <div class="col-xs-12 col-sm-4 col-md-4">
-            
-                    <div class="grid wow zoomIn">
-                        <figure class="effect-bubba">
-                             <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-3.jpg" alt="img01"/>
-                            <!-- <img src="http://cdn.property118.com/wp-content/themes/118v2/img/p118_logo_new.png" alt="img01"/> -->
-                            <figcaption>
-                                <!-- <h2>Property118</h2> -->
-                                <p>Improved website performance by architecting Cloud based architecture</p>
-                            </figcaption>			
-                        </figure>
-                    </div>
-                    
-                </div>
-                
-                <!-- <div class="col-xs-12 col-sm-4 col-md-4">
-            
-                    <div class="grid wow zoomIn">
-                        <figure class="effect-bubba">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-4.jpg" alt="img01"/>
-                            <figcaption>
-                                <h2>Bang <span>Bang</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
-                            </figcaption>			
-                        </figure>
-                    </div>
-                    
-                </div>
-                
-                <div class="col-xs-12 col-sm-4 col-md-4">
-            
-                    <div class="grid wow zoomIn">
-                        <figure class="effect-bubba">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-5.jpg" alt="img01"/>
-                            <figcaption>
-                                <h2>Crypton <span>Dude</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
-                            </figcaption>			
-                        </figure>
-                    </div>
-                    
-                </div>
-                
-                <div class="col-xs-12 col-sm-4 col-md-4">
-            
-                    <div class="grid wow zoomIn">
-                        <figure class="effect-bubba">
-                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/item-6.jpg" alt="img01"/>
-                            <figcaption>
-                                <h2>Don't <span>Poke</span></h2>
-                                <p>Lily likes to play with crayons and pencils</p>
-                            </figcaption>			
-                        </figure>
-                    </div>
-                    
-                </div> -->
-                
-            </div>
-
-
-		</div><!-- .contaier -->
-
-	</section> -->
-
-	<!-- Portfolio end -->
     
     <!-- Skills start -->
     
@@ -321,10 +202,10 @@ global $more;    // Declare global $more (before the loop).
 
 			<div id="cbp-qtrotator" class="cbp-qtrotator">
                 <div class="cbp-qtcontent">
-                    <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/client-1.jpg" alt="client-1" />
+                    <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/Adam.png" alt="client-1" />
                     <blockquote>
                       <p>I learn something new nearly every time I speak to Muhil, his enthusiasm for Linux and open source is infectious. He seems to take new challenges in a really calm way, "oh you want me to learn a new language, ok I'll just do that". Then he starts reading about it and just gets on with it.</p>
-                      <footer>Adam Wilson, Web Developer at Spotted Paint</footer>
+                      <footer>Adam Wilson, Web Developer at <a href="http://spottedpaint.com/">Spotted Paint</a></footer>
                     </blockquote>
                 </div>               
 
