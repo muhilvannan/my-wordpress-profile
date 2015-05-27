@@ -14,6 +14,7 @@
 						<li><a href="https://www.facebook.com/muhil.vannan" class="wow fadeInUp"><i class="fa fa-facebook"></i></a></li>
 						<li><a href="https://twitter.com/blueash1198" class="wow fadeInUp" data-wow-delay=".1s"><i class="fa fa-twitter"></i></a></li>
 						<li><a href="https://github.com/muhilvannan" class="wow fadeInUp" data-wow-delay=".2s"><i class="fa fa-github"></i></a></li>	
+                        <li><a href="/instagram-gallery" class="wow fadeInUp" data-wow-delay=".2s"><i class="fa fa-instagram"></i></a></li>
 						<li><a href="mailto:muhil@outlook.com" class="wow fadeInUp" data-wow-delay=".5s"><i class="fa fa-envelope"></i></a></li>
 					</ul>
 
@@ -21,7 +22,7 @@
                         Made with <span class="fa fa-heart fa-2x animated pulse"></span> in Edinburgh
                     </p>
                     <p class="copyright">
-                        © 2015 Muhil Vannan | Images: <a href="https://unsplash.com/">Unsplash</a> & <a href="http://zoomwalls.com/">Zoomwalls</a>
+                        © <?php echo date("Y"); ?> Muhil Vannan | Images: <a href="https://unsplash.com/">Unsplash</a> & <a href="http://zoomwalls.com/">Zoomwalls</a>
 					</p>
 
 				</div>

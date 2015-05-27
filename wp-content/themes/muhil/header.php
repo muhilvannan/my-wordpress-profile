@@ -52,8 +52,7 @@
 			<div class="container">
 
 				<div class="navbar-header">
-                <a href="https://github.com/muhilvannan" target="_blank" style="  float: right;
-  margin-top: 15px;"><i class="fa fa-github" style="font-size: 22px;"></i></a>
+                <a href="https://github.com/muhilvannan" target="_blank" style="float: left;margin-top: 15px;padding-right:5px;"><i class="fa fa-github" style="font-size: 22px;"></i></a>
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
 						<span class="sr-only">Toggle navigation</span>
 						<span class="icon-bar"></span>
@@ -66,14 +65,14 @@
 
 				<div class="collapse navbar-collapse" id="custom-collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="/#home">Home</a></li>
+                        <li><a href="/blog">Blog</a></li>
+						<!-- <li><a href="/#home">Home</a></li> -->
 						<li><a href="/#services">Services</a></li>
                         <!-- <li><a href="/#portfolio">Works</a></li> -->
                         <li><a href="/#skills">Skills</a></li>
 						<li><a href="/#testimonials">Testimonials</a></li>
 						<li><a href="/#contact">Contact</a></li>
-                        <li><a href="/about-me">About me</a></li>
-                        <li><a href="/blog">Blog</a></li>
+                        <li><a href="/about-me">About me</a></li>                        
                     </ul>
 				</div>
 

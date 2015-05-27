@@ -202,7 +202,7 @@ global $more;    // Declare global $more (before the loop).
 
 			<div id="cbp-qtrotator" class="cbp-qtrotator">
                 <div class="cbp-qtcontent">
-                    <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/Adam.png" alt="client-1" />
+                    <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/Adam.png" alt="client-1" style="max-width:320px;"/>
                     <blockquote>
                       <p>I learn something new nearly every time I speak to Muhil, his enthusiasm for Linux and open source is infectious. He seems to take new challenges in a really calm way, "oh you want me to learn a new language, ok I'll just do that". Then he starts reading about it and just gets on with it.</p>
                       <footer>Adam Wilson, Web Developer at <a href="http://spottedpaint.com/">Spotted Paint</a></footer>
