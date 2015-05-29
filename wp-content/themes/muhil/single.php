@@ -24,13 +24,16 @@
            
            <?php comments_template(); ?> 
            
-            
+            <div style="float:left">
+                <?php previous_post_link('<< %link'); ?>   
+
+            </div> 
+
+             <div style="float:right">
+                <?php next_post_link('%link >>'); ?>
+             </div>
         </article>
-		<?php endwhile; ?>
-        
-        <div id="pagination">
-            <?php previous_post_link('%link'); ?>   <?php next_post_link('%link'); ?>
-  		</div> 
+		<?php endwhile; ?>       
 		
 		<?php endif; ?>
     </section>
