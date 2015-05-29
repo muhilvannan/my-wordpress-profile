@@ -71,7 +71,6 @@
                         <!-- <li><a href="/#portfolio">Works</a></li> -->
                         <li><a href="/#skills">Skills</a></li>
 						<li><a href="/#testimonials">Testimonials</a></li>
-						<li><a href="/#contact">Contact</a></li>
                         <li><a href="/about-me">About me</a></li>                        
                     </ul>
 				</div>
