@@ -20,7 +20,7 @@
                 </div>
             </header>
            
-            <?php the_content(); ?>
+            <?php the_excerpt(); ?>
            
         </article>
 		<?php endwhile; ?>
