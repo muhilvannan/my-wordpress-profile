@@ -966,6 +966,10 @@ article{
     padding-top: 80px;
 
 }
+
+article iframe{
+    width:100% !important;
+}
 /* Example for media query */
 @media screen and (max-width: 30.6em) { 
 
