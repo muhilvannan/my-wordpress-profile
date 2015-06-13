@@ -65,6 +65,7 @@
 
 				<div class="collapse navbar-collapse" id="custom-collapse">
 					<ul class="nav navbar-nav navbar-right">
+                        <li><a href="/instagram-gallery" style="font-size: 18px;"><i class="fa fa-instagram"></i></a></li>
                         <li><a href="/blog">Blog</a></li>
 						<!-- <li><a href="/#home">Home</a></li> -->
 						<li><a href="/#services">Services</a></li>
