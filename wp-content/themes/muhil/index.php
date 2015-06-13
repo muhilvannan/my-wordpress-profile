@@ -1,5 +1,5 @@
 <?php get_header(); ?>
- 
+ <div id="postContainer">
  	
     <section id="main" class="blog">
       	
@@ -34,5 +34,5 @@
     
    <?php get_sidebar(); ?>
         
-
+</div>
 <?php get_footer(); ?>

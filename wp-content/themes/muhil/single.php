@@ -1,6 +1,6 @@
 <?php get_header(); ?>
  
- 
+ <div id="postContainer">
      <section id="main" class="blog">
       	
         
@@ -37,14 +37,10 @@
 		
 		<?php endif; ?>
     </section>
- 
- 
-    <aside class="blog">
     
         <?php get_sidebar(); ?>
         
-     </aside>
-
+</div>
 <?php get_footer(); ?>
  
  

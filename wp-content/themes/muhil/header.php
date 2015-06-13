@@ -82,11 +82,4 @@
 
 	</header>
 
-	<!-- Navigation end -->
-   
-       
-    
-   		
-        
-    
-    
+	<!-- Navigation end -->    

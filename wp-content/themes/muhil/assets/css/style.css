@@ -16,6 +16,8 @@ body {
 
 .blog{
     overflow: auto;
+    width: 70%;
+    float: left;
 }
 
 img {
@@ -692,6 +694,18 @@ textarea.form-control {
 	.calltoaction {
 		text-align: center;
 	}
+    
+    aside  {
+        clear:both;
+        float:left;
+        margin-left: 10%;
+        width:100%;
+        
+    }
+    
+    .blog {
+        width: 100%;
+    }
 
 }
 
@@ -941,7 +955,7 @@ figure.effect-bubba:hover p {
 }
 
 .cbp-qtrotator blockquote p {
-	font-size: 2em;
+	font-size: 1.5em;
 	color: #888;
 	font-weight: 300;
 	margin: 0.4em 0 1em;
@@ -963,9 +977,27 @@ article{
 
     margin: auto;
     width: 80%;
-    padding-top: 80px;
-    padding-bottom: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
+}
+
+#postContainer{
+    
+  width: 100%;
+  overflow: auto;  
+    
+}
+
+aside{
+  width: 30%;
+  float: left;
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+
+aside > ul > li {
+    list-style: none;
 }
 
 article iframe{

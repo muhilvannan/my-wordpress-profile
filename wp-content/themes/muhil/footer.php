@@ -1,4 +1,3 @@
-
  <?php
     wp_footer();
 ?>
@@ -36,8 +35,12 @@
 	<!-- Scroll to top -->
 
 	<div class="scroll-up">
-		<a href="#home"><i class="fa fa-angle-up"></i></a>
-	</div>
+        <?php if (is_front_page()) { ?>
+            <a href="#home"><i class="fa fa-angle-up"></i></a>
+        <?php } else { ?>
+            <a href="#postContainer"><i class="fa fa-angle-up"></i></a>
+        <?php } ?>
+ 	</div>
     
     <!-- Scroll to top end-->
 
