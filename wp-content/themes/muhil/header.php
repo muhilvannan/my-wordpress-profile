@@ -65,14 +65,14 @@
 
 				<div class="collapse navbar-collapse" id="custom-collapse">
 					<ul class="nav navbar-nav navbar-right">
-                        <li><a href="/instagram-gallery" style="font-size: 18px;"><i class="fa fa-instagram"></i></a></li>
                         <li><a href="/blog">Blog</a></li>
 						<!-- <li><a href="/#home">Home</a></li> -->
 						<li><a href="/#services">Services</a></li>
                         <!-- <li><a href="/#portfolio">Works</a></li> -->
                         <li><a href="/#skills">Skills</a></li>
 						<li><a href="/#testimonials">Testimonials</a></li>
-                        <li><a href="/about-me">About me</a></li>                        
+                        <li><a href="/about-me">About me</a></li>
+                        <li><a href="/instagram-gallery" style="font-size: 18px;"><i class="fa fa-instagram"></i></a></li>
                     </ul>
 				</div>
 
