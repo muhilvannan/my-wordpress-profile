@@ -69,22 +69,6 @@ global $more;    // Declare global $more (before the loop).
 					</div>
 
 				</div>
-
-				<div class="col-sm-3">
-
-					<div class="iconbox wow slideInRight">
-						<div class="iconbox-icon">
-							<span class="icon-badge"></span>
-						</div>
-						<div class="iconbox-text">
-							<h3 class="iconbox-title">Git Master</h3>
-							<div class="iconbox-desc">
-								Managing and Maintaining git repositories
-							</div>
-						</div>
-					</div>
-
-				</div>
                 
                 <div class="col-sm-3">
 
@@ -96,6 +80,21 @@ global $more;    // Declare global $more (before the loop).
 							<h3 class="iconbox-title">RHCE</h3>
 							<div class="iconbox-desc">
 								A RedHat Certified Engineer proficient in Maintaining and Administering Redhat based distributions, AWS and Database Administration
+							</div>
+						</div>
+					</div>
+
+				</div>
+                
+                <div class="col-sm-3">
+
+					<div class="iconbox wow slideInRight">
+						<div class="iconbox-icon">
+                            <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/Solutions-Architect-Associate.png" />
+						</div>
+						<div class="iconbox-text">
+							<div class="iconbox-desc">
+								A Solutions Architect and requirements analyst specialising in AWS based cloud solutions
 							</div>
 						</div>
 					</div>
@@ -207,7 +206,17 @@ global $more;    // Declare global $more (before the loop).
                       <p>I learn something new nearly every time I speak to Muhil, his enthusiasm for Linux and open source is infectious. He seems to take new challenges in a really calm way, "oh you want me to learn a new language, ok I'll just do that". Then he starts reading about it and just gets on with it.</p>
                       <footer>Adam Wilson, Web Developer at <a href="http://spottedpaint.com/">Spotted Paint</a></footer>
                     </blockquote>
-                </div>               
+                </div> 
+                
+                <div class="cbp-qtcontent">
+                    <img src="<?php bloginfo( 'template_url' ); ?>/assets/images/accentdesign.png" alt="client-2" style="width:320px;"/>
+                    <blockquote>
+                      <p>Muhil combines the skills of technical ability with practicality. Listening to requirements and then developing an appropriate plan. He presents complex ideas in a simplified form allowing users of all abilities to understand and be part of a solution. This inclusive style of working makes Muhil an indispensable member of the team. His natural enthusiasm for server technology and deployment means he's someone to follow for the inside track and I hope we have the chance to work together again in the future.</p>
+                      <footer>Dave Fuller, Director & Senior Web Designer at <a href="https://accentdesign.co.uk/">Accent Design Group Ltd</a></footer>
+                    </blockquote>
+                </div>
+                
+                
 
             </div>		
 
